@@ -1,7 +1,7 @@
 from app import create_app
 
 """
-You can also use `flask run` in the terminal, 
+You can also use `flask run --debug` in the terminal, 
 Flask will automatically look for the package called `app`
 
 Make sure you are running from the virtual environment

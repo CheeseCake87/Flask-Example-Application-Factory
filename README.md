@@ -72,7 +72,7 @@ pip install -r requirements.txt
 **run**
 
 ```bash
-flask run
+flask run --debug
 ```
 
 or
